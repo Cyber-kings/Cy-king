@@ -1,0 +1,1 @@
+alert('This Site For Education Perpose Only')

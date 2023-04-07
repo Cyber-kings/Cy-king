@@ -1,0 +1,18 @@
+body{
+  font-family:impact;
+}
+#h1{
+  color:white;
+  background-color:black;
+  margin-top:-8px;
+  margin-left:-6px;
+  width:370px;
+}
+button{
+  color:white;
+  background-color:red;
+  border:1px solid black;
+  opacity:0.8;
+  width:80px;
+  
+}
